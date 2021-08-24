@@ -1,12 +1,11 @@
-# Comparison-between-ground-based-data-and-ERA5
+# Comparison between Ground-based Synoptic Data and ERA5 Reanalysis Data in Iran
 
 With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript:
 
-> N. Akrami, K. Ziarati, S. Dev, Comparison between Ground-based Synoptic Data and ERA5 Reanalysis Data in Iran
-
+> N. Akrami, K. Ziarati, and S. Dev, Comparison between Ground-based Synoptic Data and ERA5 Reanalysis Data in Iran, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021.
 
 ## Code Organization
-All codes are written in python3.
+All codes are written in `python3`.
 
 ### Dependencies
 The following libraries should be installed before the execution of the codes.
@@ -25,4 +24,4 @@ Two data sets are used in this work. We are releasing the processed data that we
 
 
 ### Scripts
-- Compare_ERA5_Synoptic.ipynb: Run this script to extract data (ERA5 and ground-based) and obtain the plots and other results. 
+- `Compare_ERA5_Synoptic.ipynb`: Run this script to extract data (ERA5 and ground-based) and obtain the plots and other results of the manuscript. 
