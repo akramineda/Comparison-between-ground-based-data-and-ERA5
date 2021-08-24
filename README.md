@@ -2,7 +2,9 @@
 
 With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript:
 
-> N. Akrami, K. Ziarati, and S. Dev, Comparison between Ground-based Synoptic Data and ERA5 Reanalysis Data in Iran, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021.
+> N. Akrami, K. Ziarati, and S. Dev, Comparison between Ground-based Synoptic Data and ERA5 Reanalysis Data in Iran, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
+Please cite this paper, if you use whole/part of the code in this repository. 
 
 ## Code Organization
 All codes are written in `python3`.
